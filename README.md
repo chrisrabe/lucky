@@ -60,7 +60,7 @@ is that the chances of an even number being chosen is around 49%, whilst the cha
 number being chosen is 51%.
 
 With this in mind, I created an algorithm which goes through all the historical data and created
-a histogram for every odd-even combination. (e.g. 0 odd, 7 even). One thing I found interesting is 
+a histogram for every odd-even combination. (e.g. 0 odd, 7 even, 1 odd, 6 even, etc). One thing I found interesting is 
 that choosing 3 even numbers and 4 odds have at least 30% chance of being successful based on historical events.
 
 I used the pattern histogram to re-eveluate the weight of the combinations produced from Theory 2.
